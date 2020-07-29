@@ -1,0 +1,58 @@
+#pp
+{
+   position:absolute;top:5000px
+}
+#mainid
+{
+  width:100%;height:5300px;background-color:rgba(200,100,100,0.2)
+}
+#ppshengjingshan
+{
+position:absolute;top:2550px
+}
+#mainshengjingshan
+{
+height:2800px;
+}
+#hezuopic
+{width:300px;
+  height:400px;
+  position: absolute;
+  top:200px;
+  left:40%;
+z-index: 2
+}
+#shetuanpic
+{width:300px;
+  height:400px;
+  position: absolute;
+  top:200px;
+  left:6%;
+z-index: 2
+}
+#qitapic
+{width:300px;
+  height:400px;
+  position: absolute;
+  top:200px;
+  left:74%;
+z-index: 2
+}
+#qita
+{font-size: 20px;
+position:absolute;
+top:650px;
+left:81%;
+color:rgba(34,11,23,0.7)}
+#shetuan
+{font-size: 20px;
+position:absolute;
+top:650px;
+left:10%;
+color:rgba(34,11,23,0.7)}
+#tuanzhibu
+{font-size: 20px;
+position:absolute;
+top:650px;
+left:45%;
+color:rgba(34,11,23,0.7)}
